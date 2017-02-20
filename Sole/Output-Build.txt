@@ -1,0 +1,7 @@
+﻿1>------ Rebuild All started: Project: Sole, Configuration: Debug Any CPU ------
+1>C:\Users\VanClash\Documents\Visual Studio 2015\Projects\Sole\Sole\Form1.cs(294,21,294,34): warning CS0219: The variable 'targetCardLoc' is assigned but its value is never used
+1>C:\Users\VanClash\Documents\Visual Studio 2015\Projects\Sole\Sole\Form1.cs(22,14,22,30): warning CS0414: The field 'Form1.carriedFromPiles' is assigned but its value is never used
+1>  Sole -> C:\Users\VanClash\Documents\Visual Studio 2015\Projects\Sole\Sole\bin\Debug\Sole.exe
+2>------ Skipped Rebuild All: Project: SoleSolutionSetup, Configuration: Debug ------
+2>Project not selected to build for this solution configuration 
+========== Rebuild All: 1 succeeded, 0 failed, 1 skipped ==========
