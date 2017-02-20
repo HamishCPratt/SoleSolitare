@@ -11,6 +11,6 @@ https://code.google.com/archive/p/vector-playing-cards/
 **Sole** aimed to be the first real project of mine dealing with UI and anything beyond text-based terminal code. 
 
 #### Screenshots ####
-
-*In Progress*
+![](/Screenshots/inital.png)
+![](/Screenshots/final.png)
 
