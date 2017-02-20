@@ -14,6 +14,3 @@ https://code.google.com/archive/p/vector-playing-cards/
 
 *In Progress*
 
-#### Installation ####
-
-To install follow Sole\Installation\Debug\Installation. Currently tested on Windows 8.1 
